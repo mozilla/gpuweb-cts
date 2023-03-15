@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "WebGPU Conformance Test Suite",
   "scripts": {
+    "clean": "grunt clean",
     "test": "grunt pre",
     "check": "grunt check",
     "standalone": "grunt standalone",
